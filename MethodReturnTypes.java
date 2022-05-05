@@ -19,3 +19,25 @@ public class MethodReturnTypes {
         return t;
     }
 }
+
+// // This is the second way I was able to do it too. Not sure which way was correct.
+
+// public static void main(String[] args) {
+
+// name("Johnny");
+// number(11);
+// truth(true);
+// }
+
+// public static void name(String user) {
+// System.out.println(user);
+// }
+
+// public static void number(int x){
+// System.out.println(x);
+// }
+
+// public static void truth(boolean t) {
+// System.out.println(t);
+// }
+// }
